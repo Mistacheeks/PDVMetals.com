@@ -124,10 +124,10 @@ Version:	1.1
 	padding-top: 15px;
 }
 .slider .single-slider {
-	height: 380px;
+	height: 350px;
 }
 .schedule {
-	background: #fff;
+	background: #fff \7;
 	margin: 0;
 	padding: 0;
 	height: auto;
@@ -217,7 +217,7 @@ Version:	1.1
 	padding: 70px 0;
 }
 .call-action .content h2 {
-	font-size: 28px;
+	font-size: 26px;
 	line-height: 40px;
 }
 .services .single-service {
@@ -247,7 +247,7 @@ Version:	1.1
 .departments .department-tab .nav li .second {
 	font-size: 13px;
 	font-weight: 400;
-	color: #868686;
+	color: #2b2a2a;
 	margin-top: 0px;
 }
 .departments .department-tab .tab-pane .department-left h3 {
@@ -345,7 +345,7 @@ Version:	1.1
 .pf-details .body-text h3 {
 	font-size: 24px;
 	font-weight: 600;
-	color: #333;
+	color: #fff;
 	margin-top: 30px;
 }
 .doctor-calendar-table table thead tr th {
